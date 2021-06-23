@@ -1,0 +1,14 @@
+#bin
+my_rpg
+
+#obj
+*.o
+
+#vscode
+.vscode
+
+#lib
+libmy.a
+
+#vgcore
+vgcore*
